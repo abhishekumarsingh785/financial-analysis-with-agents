@@ -6,7 +6,7 @@ This project showcases an **Agentic Stock Analysis System**, built using Microso
 
 The project demonstrates the **transformative potential of autonomous AI** in revolutionizing workflows in industries like finance, research, and beyond.  
 
-**Demo Video**: [Watch Here](https://drive.google.com/file/d/1BbWgFj-efVn7IRode7LsAM_5y31jwVNr/view?usp=sharing)  
+**Demo Video**: [Watch Here](https://drive.google.com/file/d/1wOwsrvetAqh0Q7cC8saiIypjXrDy_Bzc/view?usp=sharing)  
 
 ---
 
@@ -84,7 +84,7 @@ This project tackled a real-world stock analysis scenario, completing the follow
 ## 🎥 Demo  
 
 Check out the video demonstration of the project in action:  
-[Watch the Demo](https://drive.google.com/file/d/1BbWgFj-efVn7IRode7LsAM_5y31jwVNr/view?usp=sharing)  
+[Watch the Demo](https://drive.google.com/file/d/1wOwsrvetAqh0Q7cC8saiIypjXrDy_Bzc/view?usp=sharing)  
 
 ---
 
